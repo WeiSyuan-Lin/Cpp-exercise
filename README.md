@@ -1,2 +1,0 @@
-# Cpp-exercise
-# Cpp-exercise
